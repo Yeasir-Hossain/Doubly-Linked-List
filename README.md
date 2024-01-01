@@ -47,8 +47,7 @@ This C++ program demonstrates the implementation of a doubly linked list with va
 Compile the program using a C++ compiler, and run the executable.
 
 ```bash
-g++ filename.cpp -o LinkedList
-./LinkedList
+g++ doubly_linked_list.cpp -o LinkedList
 ```
 
 # Example
